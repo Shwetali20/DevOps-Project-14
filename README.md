@@ -24,4 +24,4 @@ Check out the complete **blog tutorial with screenshots** here:
 ---
 
 
-![Follow Me](https://imgur.com/2j7GSPs.png)  
+
